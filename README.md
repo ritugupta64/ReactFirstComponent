@@ -5,6 +5,8 @@
 - make the class and return the single html element
 - And render it, where you want to dump it.
 
+=> dump the below code into index.js file
+
 import React from 'react';
 import {render} from 'react-dom';
 import './index.css';
